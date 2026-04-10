@@ -4,13 +4,14 @@
       "Bash",
       "WebSearch",
       "WebFetch",
-      "mcp__playwright"
+      "mcp__playwright",
+      "Skill(nextjs-16)"
     ]
   },
+  "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [
     "playwright"
   ],
-  "enableAllProjectMcpServers": true,
   "hooks": {
     "Notification": [
       {
